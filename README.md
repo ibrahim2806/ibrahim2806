@@ -1,16 +1,18 @@
-## Hi there 👋
+# Ibrahim Ibrahimov
 
-<!--
-**ibrahim2806/ibrahim2806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's student in Engineering Technology, specialising in Electronics and ICT at KU Leuven. My focus is hardware systems and chip design, with project work spanning FPGA design, embedded programming and software development.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Collection | What you will find |
+|---|---|
+| [embedded-hardware](https://github.com/ibrahim2806/embedded-hardware) | FPGA, embedded systems and electronics projects |
+| [software](https://github.com/ibrahim2806/software) | Programming, operating systems and web applications |
+
+### VGA maze project — DDC
+
+A PYNQ-Z2 FPGA project combining a button-controlled red square, VGA maze graphics and LED feedback. Includes the Verilog/Vivado project, report, laboratory photograph and LED-feedback video.
+
+[Explore the project](https://github.com/ibrahim2806/maze-project-ddc)
+
+Further project materials are being organised within the individual repositories.
